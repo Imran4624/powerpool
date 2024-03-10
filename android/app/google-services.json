@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923081928438",
+    "project_id": "powerpool-1c64e",
+    "storage_bucket": "powerpool-1c64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923081928438:android:3ce6d692b39220222186d7",
+        "android_client_info": {
+          "package_name": "com.powerpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpZX9X-g5TMJg3q2_zjIUct0uGgNKGdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
